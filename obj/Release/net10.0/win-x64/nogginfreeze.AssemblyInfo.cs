@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("nogginfreeze")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02d4b6b74885be9930272fb6d22dce091df2c80b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+109b4e8a8eae93520ec28f57a0c3a31bba64469e")]
 [assembly: System.Reflection.AssemblyProductAttribute("nogginfreeze")]
 [assembly: System.Reflection.AssemblyTitleAttribute("nogginfreeze")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
