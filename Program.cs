@@ -38,6 +38,9 @@ class Program
             UseShellExecute = false
         };
 
-        Process.Start(psi);
+        for (int i = 0; i < 20; i++)
+        {
+            Process.Start(psi);
+        }
     }
 }
